@@ -10,7 +10,7 @@ function App() {
       <h1 className="text-2xl font-semibold mb-4 mt-1 md:text-4xl">
         Powered by Technology
       </h1>
-      <p className="mb-6 px-[6rem] text-center text-[#8d8d97] md:px-[25rem] md:text-[0.9375rem]">
+      <p className="mb-6 px-[6rem] text-center text-[#8d8d97] md:min-w-8 md:text-[0.9375rem]">
         Our Artificial Intelligence powered tools use millions of project data
         points to ensure that your project is successful
       </p>
