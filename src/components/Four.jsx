@@ -4,7 +4,7 @@ import data from "./data";
 
 export default function Four() {
   return (
-    <div className="">
+    <div className="wrap">
       {data.map((card) => (
         <Card
           key={card.id}
