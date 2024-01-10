@@ -4,7 +4,7 @@ import './index.css'
 
 function App() {
   return (
-    <main className="bg-[#FAFAFA] flex flex-col justify-center items-center">
+    <main className="bg-[#FAFAFA] flex flex-col justify-center items-center min-h-screen">
       <h1 className="mt-12 text-[#8d8d97] text-2xl font-light md:mt-8 md:text-4xl">
         Reliable, efficient delivery
       </h1>
