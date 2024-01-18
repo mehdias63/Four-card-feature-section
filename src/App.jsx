@@ -1,6 +1,6 @@
 import React from "react";
 import Four from "./components/Four";
-import './index.css'
+import "./index.css";
 
 function App() {
   return (

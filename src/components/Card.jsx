@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Card({ title, icon, description, color }) {
   return (
-    <div className="count"> 
+    <div className="count">
       <div
         className="w-[19.4375rem] h-[13.875rem] bg-[#FFF] px-7 py-[1.69rem] mt-8 border-t-[0.222rem] text-left shadow-2xl rounded-md md:w-[ 21.875rem] md:h-[15.625rem]"
         style={{ borderColor: color }}
