@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Four-Card-Feature-Section component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Four-Card-Feature-Section component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mehdias63/qr-code)
-- Live Site URL: [Add live site URL here](https://qr-code-one-dun.vercel.app)
+- Solution URL: [Add solution URL here](https://github.com/mehdias63/Four-card-feature-section)
+- Live Site URL: [Add live site URL here](https://four-card-feature-section-tau-ecru.vercel.app)
 
 ## My process
 
